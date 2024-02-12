@@ -1,0 +1,11 @@
+.row-month{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-week{
+	flex: 0 0 14.1466019%;
+	max-width: 14.1466019%;
+	height: 29.8px;
+	cursor: pointer;
+	border-radius: 2px;
+}
